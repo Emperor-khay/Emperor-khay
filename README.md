@@ -55,7 +55,7 @@
 
 ---
 
-## 📈 GitHub Stats (Optional if using GitHub Profile README Generator)
+## 📈 GitHub Stats
 ![Kelechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emperor-khay&show_icons=true&theme=radical)
 
 ---
